@@ -5,4 +5,4 @@ A basic iOS application handling notes. Built with [RubyMotion](http://www.rubym
 
 Demonstrate simple mobile app that can be tested with [Appium](https://github.com/appium/appium) in the cloud.
 
-Just a simple add, list, and view. 
+Just a simple add, list, and view. Meant to be easily run and automated on an emulator. 
