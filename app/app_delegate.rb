@@ -5,5 +5,7 @@ class AppDelegate
 
     note_controller = NoteViewController.alloc.init
     @window.rootViewController = UINavigationController.alloc.initWithRootViewController(note_controller)
+
+    true
   end
 end
